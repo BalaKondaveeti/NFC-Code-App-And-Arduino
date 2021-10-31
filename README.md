@@ -1,16 +1,9 @@
-# college_project
+# NFC Project
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# About the folders
+  Consits of android/ios app  and ESP32 code for NFC Project
+ 
+# Project Details
+  NFC Project
+  App Control
+  Safe Door Access/Authorise (Not fully completed)
